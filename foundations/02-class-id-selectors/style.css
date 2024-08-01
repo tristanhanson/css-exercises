@@ -1,0 +1,22 @@
+.redguy{
+    background-color: #F99E9F;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.coolguy{
+    font-size: 60px;
+}
+
+#idone{
+    color: blue;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#idtwo{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: #0af163;
+    font-size: 50px;
+}
